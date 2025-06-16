@@ -18,4 +18,4 @@ Features/Highlights:
 
 example:
 This is the outlook of the dashbord.
-Link:
+Link:file:///C:/Users/G%20Murali%20Krishna/Downloads/Powerbi%20project-2.pdf
